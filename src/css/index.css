@@ -1,0 +1,12 @@
+#title_input{
+  height: 60px;
+  width: 80%;
+  font-size: 40px;
+  resize: none;
+}
+
+#content_sel{
+  height: 50px;
+  width: 80%;
+  font-size: 20px;
+}
